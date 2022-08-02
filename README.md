@@ -2,4 +2,4 @@
 Explored of technology REST
 
 
-make simpli REST like project
+make simple REST like project
